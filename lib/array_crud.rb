@@ -39,5 +39,4 @@ end
 def retrieve_last_element_from_array(array)
 this_da_array = ["wow", "am", "me", "myself", "mas", "arrays!", "arrays!"]
 this_da_array.last
-
 end
